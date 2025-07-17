@@ -1,0 +1,11 @@
+pcautivo.telcel.com
+odatos.telcel.com
+jqtmdiy716.execute-api.us-east-1.amazonaws.com
+padnet.telcel.com
+comprasaldo.telcel.com
+llp.mx
+pay.telcel.com
+assets.portal.shop
+gamepack.portal.shop
+www.clarovr.com
+recarga.telcel.com
