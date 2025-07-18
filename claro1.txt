@@ -10,3 +10,6 @@ www.claro.com.do
 assets.portal.shop
 dev.portal.shop
 gamepack.portal.shop
+consultatuslineas.claro.com.do
+miclaro.claro.com.do
+flota.claro.com.do
