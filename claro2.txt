@@ -1,10 +1,10 @@
-tiendaenlinea.claro.com.do
-appcentral.claro.com.do
 mi.claro.com.do
-consultatuslineas.claro.com.do
-miclaro.claro.com.do
-flota.claro.com.do
 miclaroapp.claro.com.do
 pagos.claro.com.do
 api.mi.claro.com.do
 prepagoenlinea2.claro.com.do
+www.clarovr.com
+omicron.banreservas.com:5443
+contenedor.smapps.mx
+tiendaenlinea.claro.com.do
+appcentral.claro.com.do 
