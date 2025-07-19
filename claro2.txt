@@ -1,10 +1,8 @@
-mi.claro.com.do
-miclaroapp.claro.com.do
-pagos.claro.com.do
-api.mi.claro.com.do
-prepagoenlinea2.claro.com.do
-www.clarovr.com
+dev.portal.shop 
+gamepack.portal.shop 
+assets.portal.shop 
+contenedor.smapps.mx 
+www.clarovr.com 
 omicron.banreservas.com:5443
-contenedor.smapps.mx
-tiendaenlinea.claro.com.do
-appcentral.claro.com.do 
+c.airg.ca 
+www.airg.com
