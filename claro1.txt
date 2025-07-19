@@ -13,3 +13,10 @@ gamepack.portal.shop
 consultatuslineas.claro.com.do
 miclaro.claro.com.do
 flota.claro.com.do
+mi.claro.com.do
+miclaroapp.claro.com.do
+pagos.claro.com.do
+api.mi.claro.com.do
+prepagoenlinea2.claro.com.do
+tiendaenlinea.claro.com.do
+appcentral.claro.com.do 
