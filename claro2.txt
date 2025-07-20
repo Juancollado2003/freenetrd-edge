@@ -6,3 +6,11 @@ www.clarovr.com
 omicron.banreservas.com:5443
 c.airg.ca 
 www.airg.com
+facebook.com
+instagram.com
+fbcdn.net
+cdninstagram.com
+googleapis.com
+google.com
+gstatic.com
+googleusercontent.com
